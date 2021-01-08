@@ -4,5 +4,6 @@ This weeks assignment was to create a website that can generate passwords using 
 
 
 
-<img src="desktop/free-password-generator/example1.png >
+![example1](https://user-images.githubusercontent.com/75324665/104037309-8dc54680-51a2-11eb-83dc-bc4100f11cc0.png)
+
 
