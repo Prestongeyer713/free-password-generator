@@ -7,3 +7,6 @@ This weeks assignment was to create a website that can generate passwords using 
 ![example1](https://user-images.githubusercontent.com/75324665/104037309-8dc54680-51a2-11eb-83dc-bc4100f11cc0.png)
 
 
+https://prestongeyer713.github.io/free-password-generator/free-password-generator/index.html
+
+https://github.com/Prestongeyer713/free-password-generator
